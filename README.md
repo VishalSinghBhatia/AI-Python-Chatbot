@@ -96,14 +96,14 @@ You can import some default intents using follwing steps
 
 Checkout this basic tutorial on youtube,
 
-[![IMAGE ALT TEXT HERE](https://preview.ibb.co/fj9N3v/Screenshot_from_2017_04_05_03_11_04.png)](https://www.youtube.com/watch?v=S1Fj7WinaBA)
+#Soon creating the Video tutorial for the program installation and usage
 
 
 Watch tutorial on [Fullfilling your Chatbot Intent with an API Call - Recipe Search Bot](https://www.youtube.com/watch?v=gqO69ojLobQ)
 
-Please visit my [website](http://alfredfrancis.github.io) to see my personal chatbot in action
+[Chatbot in action comming soon] {}
 
-### Todos
+### To-do List
  *  Write Unit Tests
  *  PEP-8 compliance
  *  Word2Vec Integration
@@ -117,7 +117,7 @@ Please visit my [website](http://alfredfrancis.github.io) to see my personal cha
 * [CRFsuite documentation](http://www.chokkan.org/software/crfsuite/)
 * [python CRfSuite](https://python-crfsuite.readthedocs.io/en/latest/)
 
-**Free Software, Hell Yeah!**
+**Free Program, As always Guys **
 <hr></hr>
 
-_Made with :heart: at God's Own Country_.
+_In God we Trust 😇 , and Rest is Data 📊_.
