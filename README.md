@@ -117,7 +117,7 @@ Watch tutorial on [Fullfilling your Chatbot Intent with an API Call - Recipe Sea
 * [CRFsuite documentation](http://www.chokkan.org/software/crfsuite/)
 * [python CRfSuite](https://python-crfsuite.readthedocs.io/en/latest/)
 
-**Free Program, As always Guys **
+**Free Program, And always for you Friends **
 <hr></hr>
 
 _In God we Trust 😇 , and Rest is Data 📊_.
