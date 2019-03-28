@@ -89,9 +89,9 @@ You can import some default intents using follwing steps
 ---
 ![](https://image.ibb.co/ivXKWx/Screen_Shot_2018_04_28_at_1_38_36_PM.png)
 ---
-![](https://image.ibb.co/nf9Bdc/Screen_Shot_2018_04_28_at_1_38_57_PM.png)
+![](https://i.ibb.co/z2bvtL4/Image-3857.png)
 ---
-![](https://image.ibb.co/b4q1dc/Screen_Shot_2018_04_28_at_1_43_06_PM.png)
+![](https://i.ibb.co/f871qv2/Image-4306.png)
 ### Tutorial
 
 Checkout this basic tutorial on youtube,
