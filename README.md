@@ -85,9 +85,9 @@ You can import some default intents using follwing steps
 
 ### Screenshots
 
-![](https://image.ibb.co/i9ReWx/Screen_Shot_2018_04_28_at_1_38_15_PM.png)
+![](https://i.ibb.co/4f8x6Ws/Screen-Shot-2018-04-28-at-1-38-15-PM.png)
 ---
-![](https://image.ibb.co/ivXKWx/Screen_Shot_2018_04_28_at_1_38_36_PM.png)
+![](https://i.ibb.co/YZjk3Ty/Image-3836.png)
 ---
 ![](https://i.ibb.co/z2bvtL4/Image-3857.png)
 ---
